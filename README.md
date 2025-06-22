@@ -1,2 +1,3 @@
 # Firstproject-demo
-This s my first Repository
+This s my first Repository.
+Author - Samrat kundu
